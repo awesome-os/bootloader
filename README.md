@@ -1,3 +1,5 @@
+> [!NOTE] Consolidated into the unified Holo v11 OS monorepo at https://github.com/awesome-os/awesome-os
+
 # Awesome-OS Bootloader & Zero-Flicker Splash Suite (`awesome-os/bootloader`)
 
 Sovereign multi-bootloader implementations and deterministic UEFI GOP / Limine / SimpleDRM splash screen assets for **Holo-Linux `7.3.6`** (`B8G_ABI_MAGIC_V3=0x33564742`, `b8g_abi.ko`, `scx_holo`).
