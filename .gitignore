@@ -1,0 +1,3 @@
+# Generated uncompressed BMPs (rebuilt deterministically via `node assets/generate-splash.mts`)
+assets/splash/*.bmp
+*.exe
